@@ -4,7 +4,7 @@
         <div class=" mx-auto flex flex-wrap flex-row items-center justify-between">
 
             <a href="{{ route('index') }}" class="flex text-3xl font-bold items-center">
-                <img class="w-64" src="{{ asset('assets/images/yan.jpg') }}"/>
+                Ariq Fadhil M.
             </a>
 
             <label for="menu-toggle" class="cursor-pointer lg:hidden block">

@@ -114,7 +114,7 @@
         <div class="mt-16 border-t border-serv-border sm:flex justify-between w-100 ">
             <div class="flex items-left mt-8">
                 <h1 class="text-white text-3xl font-bold">
-                    Yan Afriyoko
+                    Ariq Fadhil M.
                 </h1>
             </div>
             <div class="sm:flex items-center justify-center mt-8 lg:ml-24">

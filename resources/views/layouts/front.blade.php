@@ -4,7 +4,7 @@
 
         @include('includes.landing.meta')
 
-        <title>@yield('title') | Yan Afriyoko</title>
+        <title>@yield('title') | Ariq Fadhil M.</title>
 
         @stack('before-style')
 
